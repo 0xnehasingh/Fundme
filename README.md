@@ -49,6 +49,23 @@ Copy code
   npm run deploy:mumbai
    ```
 
+Some Screenshots of the current Web App
+Dashboard Page
+
+![image](https://github.com/0xnehasingh/Fundme/assets/67492324/2a189c96-4235-4c10-ae7d-20d8efece2ef)
+
+
+
+Campaign Page
+
+![image](https://github.com/0xnehasingh/Fundme/assets/67492324/f7506e97-3918-41ef-ab74-0b0b56c5732b)
+
+
+
+
+
+
+
 # Contributing
 Fundme is an open-source project, and contributions are welcome. If you'd like to contribute, please see our contributing guidelines for more information.
 
