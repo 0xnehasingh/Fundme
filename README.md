@@ -1,4 +1,4 @@
-# Fundme: Decentralized Crowdfunding Platform
+# Fundme: Decentralized Science Crowdfunding Platform
 Fundme is an open-source, decentralized crowdfunding platform for scientific research projects. It aims to provide an alternative to traditional research funding models by connecting researchers directly with interested donors, without the need for intermediaries such as universities, research institutions, or funding agencies.
 
 # How it Works
